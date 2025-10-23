@@ -204,7 +204,7 @@ Perfect acronym for an interactive alias creation tool. Easy to remember, rolls 
 
 ### ⏱️ Development Time
 
-From initial concept to feature-complete implementation, including testing, optimization, and documentation, development took approximately **2 hours**.
+Total time spent in development, testing , writing & editing README **47 min 11 sec**.
 
 ### 🙃 Why I Created This
 
@@ -227,9 +227,9 @@ What started as a quick solution to my own problem evolved into a full-featured 
 Licensed under the **MIT License**.  
 Check here: [`LICENSE`](https://github.com/gigachad80/alice/blob/main/LICENSE)
 
-First Published : October 2025
+First Published : October 22nd, 2025
 
-Last Updated : October 2025
+Last Updated : October 23rd, 2025
 
 ---
 
