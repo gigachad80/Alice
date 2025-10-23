@@ -6,6 +6,8 @@
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-pink.svg)
 <a href="https://github.com/gigachad80 /alice/issues"><img src="https://img.shields.io/badge/contributions-welcome-purple.svg?style=flat"></a>
 
+<img src="https://github.com/user-attachments/assets/a7286b5a-dbcf-4453-aa65-177e40c4db3a" alt="Description" width="500" height="1000">
+
 ## Table of Contents
 
 * [📌 Overview](#-overview)
